@@ -1,0 +1,4 @@
+./program.sh Arduino-usbserial-uno.hex
+#Play with Arduino IDE then upload
+./program.sh Arduino-keyboard-0.3.hex
+#Plug the Arduino or the showtime
